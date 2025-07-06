@@ -1,16 +1,13 @@
-## Hi there 👋
+## About Me
 
-<!--
-**goldkunibert/goldkunibert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! 👋
 
-Here are some ideas to get you started:
+I'm goldkunibert_ and I make Discord bots just for fun. I code mostly in Python (the one with the snakes, not the one with the fangs 🐍). People say I'm funny—though my bots still haven't laughed at my jokes. Maybe that's a feature request?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Social situations? Uh, I'd rather debug a 500-line function than ask a stranger for directions. But hey, at least my bots never judge!
+
+Fun Fact: I love trains. Choo-choo! 🚂
+
+If you want to chat bots, Python, or just send train memes, you can find me at goldkunibert_ on Discord.
+
+Stay playful!
